@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@android:color/transparent"/>
+    <stroke
+        android:width="3dp"
+        android:color="#FFB894F8"/>
+    <corners android:radius="4dp" /> <!-- 邊框圓角 -->
+</shape>
+
+<!--    <solid android:color="@android:color/transparent" 實現透明背景 註解調/> -->
+
+<!--        android:color="#FF0000" &lt;!&ndash; 邊框顏色設為紅色 &ndash;&gt;-->
+
+<!--    紫色  -->
+<!--    android:color="#FF9F8EBD"/>-->
+<!--    android:color="#FFC3B3DF"亮紫/>-->
+<!--    android:color="#FFB894F8"/>-->
